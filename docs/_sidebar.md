@@ -1,5 +1,5 @@
 <!-- _sidebar.md -->
 - **General**
-- [Home](README.md)
+  - [Home](README.md)
 - **Topics**
-- [Biosphere](topics/biosphere.md)
+  - [Biosphere](topics/biosphere.md)
