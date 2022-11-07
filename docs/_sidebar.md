@@ -4,3 +4,8 @@
   - [Defintions](definitions.md)
 - **Topics**
   - [Biosphere](topics/biosphere.md)
+  - [Equitorial Rainforest](topics/eqr.md)
+  - [Angular Bearings](topics/ab.md)
+  - [Weather and Climate](topics/wac.md)
+  - [Longitude and Time](topics/lat.md)
+  - [Scales](topics/scale.md)

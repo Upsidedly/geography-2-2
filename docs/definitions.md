@@ -27,7 +27,7 @@ A sequence of species that are reliant on one another for sustenance.
 ### Food Web
 
 A food web is the natural interconnectedness of food chains and a visual presentation of what consumes the other in an ecological community.
-N
+
 ## H
 
 ### Herbivore
@@ -48,7 +48,11 @@ The initial consumer in the food chain, which is often a herbivore.
 
 ### Primary Producer
 
-The organism or plant upon which all other organisms in a food chain are dependent upon for nourishment. This role is crucial in the maintenance of the food chain.
+The organism or plant upon which all other organisms in a food chain are reliant upon for nutrients.
+
+### Producer
+
+Producers are organisms found at the lowest level of the food chain who synthesize their own foods. Green plants are producers which make their own food via photosynthesis.
 
 ## S
 
@@ -60,4 +64,4 @@ The significant proportion of secondary consumers are carnivores that feed on pr
 
 ### Trophic Level
 
-The position of an organism in the food chain
+The level on a food chain in which nutrients is exchanged.
